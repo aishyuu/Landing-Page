@@ -115,3 +115,18 @@ body {
 .square-text {
     text-align: center;
 }
+
+.section-two {
+    margin: 0 auto;
+    padding: 16px;
+    width: 650px;
+}
+
+.section-two-testimony {
+    font-size: 32px;
+}
+
+.section-two-author {
+    font-size: 24px;
+    text-align: end;
+}

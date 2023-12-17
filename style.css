@@ -130,3 +130,32 @@ body {
     font-size: 24px;
     text-align: end;
 }
+
+.section-three {
+    background-color: #90E0EF;
+    padding: 32px;
+    color: white;
+}
+
+.section-three-blob {
+    width: 500px;
+    padding: 32px;
+    background-color: #0096C7;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 64px;
+    margin: 0 auto;
+}
+
+.section-three-header {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.section-three-signup {
+    border: 2px solid white;
+    padding: 8px 24px;
+    border-radius: 8px;
+}

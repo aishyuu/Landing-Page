@@ -62,3 +62,56 @@ body {
     height: 250px;
     border-radius: 12px;
 }
+
+.section-one {
+    background-color: #CAF0F8
+    
+}
+
+.section-one-header {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    padding: 24px;
+}
+
+.section-one-info {
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+    gap: 40px;
+}
+
+.section-one-square {
+    width: 150px;
+}
+
+.square-one,
+.square-two,
+.square-three,
+.square-four {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+}
+
+.square-one {
+    background-color: #90E0EF;
+}
+
+.square-two {
+    background-color: #00B4D8;
+}
+
+.square-three {
+    background-color: #0077B6;
+}
+
+.square-four {
+    background-color: #03045E;
+}
+
+.square-text {
+    text-align: center;
+}
